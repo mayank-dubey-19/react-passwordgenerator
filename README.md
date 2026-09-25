@@ -24,7 +24,7 @@ This project was created to practice **React state management, hooks, event hand
 
 ## Project preview 
 
-click on the link to preview : 
+click on the link to preview :  https://mayank-dubey-19.github.io/react-passwordgenerator/
 
 ## Author
 
