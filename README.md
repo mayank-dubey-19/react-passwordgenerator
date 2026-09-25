@@ -22,6 +22,10 @@ A simple and responsive **Password Generator** built using **React.js**.
 
 This project was created to practice **React state management, hooks, event handling, and component-based development**.
 
+## Project preview 
+
+click on the link to preview : 
+
 ## Author
 
 **Mayank Dubey**
